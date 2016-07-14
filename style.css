@@ -54,16 +54,29 @@ body {
 }
 
 #e {
-    background-color: #735b20;
+    background-color: #45391b;
     border: 3px solid #fec02d;
+}
+#e:hover{
+  background-color: #735b20;
+  cursor:pointer;
+
 }
 
 #f {
-    background-color: #1b613b;
+    background-color: #193c29;
     border: 3px solid #20d071;
+}
+#f:hover{
+  background-color: #1b613b;
+  cursor:pointer;
 }
 
 #g {
-    background-color: #184d65;
+    background-color: #18323e;
     border: 3px solid #1a9ddb;
+}
+#g:hover{
+  background-color: #184d65;
+  cursor:pointer;
 }
